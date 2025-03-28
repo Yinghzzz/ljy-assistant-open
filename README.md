@@ -2,6 +2,7 @@
 
 ## 简介
 辣椒油助手是一个开源智能AI助手，现已接入了OpenAI/Anthropic/DeepSeek 的模型，本地版本需自行部署API KEY
+
 辣椒油助手现已通过vercel配置到公网，访问链接 https://ljy-assistant.vercel.app/
 
 ## 功能支持
